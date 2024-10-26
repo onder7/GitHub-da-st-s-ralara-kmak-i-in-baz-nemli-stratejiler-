@@ -195,3 +195,72 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICEN
 ![GitHub followers](https://img.shields.io/github/followers/onder7?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/onder7?style=social)
 ```
+### Ücretsiz Araçlar
+1. [GitHut 2.0](https://madnight.github.io/githut)
+   - Programlama dili trendleri
+   - GitHub aktivite analizi
+
+2. [Git-Awards](http://git-awards.com)
+   - Şehir ve ülke bazında sıralama
+   - Dil bazında sıralama
+
+3. [GitHub Profile Summary](https://profile-summary-for-github.com)
+   - Detaylı profil analizi
+   - Commit istatistikleri
+   - Repo analizleri
+
+4. [Sourcerer](https://sourcerer.io)
+   - Kod analizi
+   - Teknoloji kullanım istatistikleri
+   - Kodlama alışkanlıkları
+
+### Profesyonel Araçlar
+1. [Gitstar Ranking](https://gitstar-ranking.com)
+2. [GitHub Visualizer](http://ghv.artzub.com)
+3. [GitPrime](https://www.gitprime.com)
+
+   ```markdown
+# Merhaba, Ben Onder 👋
+
+## 📊 GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onder7&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+## 🔝 En Çok Kullandığım Diller
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onder7&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🔥 Katkı Grafiği
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onder7&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 📈 Aktivite Grafiği
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=onder7&theme=github" alt="Activity Graph" />
+</p>
+
+## 👥 Sosyal Medya
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+
+## 🏆 GitHub Profil Rozet Koleksiyonum
+[![trophy](https://github-profile-trophy.vercel.app/?username=onder7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 Bu Hafta Harcadığım Zaman
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🌟 Öne Çıkan Projelerim
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=onder7&repo=repo-name&theme=radical)](https://github.com/onder7/repo-name)
+
+## 📫 Bana Ulaşın
+- 💼 LinkedIn: [LinkedIn Profilim](your-linkedin-url)
+- 🐦 Twitter: [@YourTwitter](your-twitter-url)
+- 📧 Email: your.email@example.com
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=onder7&color=brightgreen)
+```
