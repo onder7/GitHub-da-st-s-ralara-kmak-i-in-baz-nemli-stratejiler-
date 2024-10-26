@@ -174,3 +174,24 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICEN
 
 ---
 ⭐ Bu rehberi faydalı bulduysan yıldızlamayı unutma!
+
+```markdown
+<!-- Github İstatistikleri -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=onder7&show_icons=true&theme=radical)
+
+<!-- En Çok Kullanılan Diller -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onder7&layout=compact&theme=radical)
+
+<!-- Katkı Grafiği -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onder7&theme=radical)
+
+<!-- Aktivite Grafiği -->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=onder7&theme=github)
+
+<!-- Profil Ziyaretçileri -->
+![Profile Views](https://komarev.com/ghpvc/?username=onder7&color=brightgreen)
+
+<!-- Rozet Örnekleri -->
+![GitHub followers](https://img.shields.io/github/followers/onder7?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/onder7?style=social)
+```
