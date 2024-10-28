@@ -1,5 +1,5 @@
 # 📊 GitHub SEO ve Başarı Stratejileri 📊
-
+![Profile Views](https://komarev.com/ghpvc/?username=onder7&color=brightgreen)
 > GitHub projelerinin görünürlüğünü artırmak ve üst sıralara çıkmak için kapsamlı rehber.
 
 ![GitHub SEO](https://via.placeholder.com/800x400?text=GitHub+SEO+Strategies)
